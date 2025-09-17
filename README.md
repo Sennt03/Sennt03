@@ -12,10 +12,10 @@ Link: [cloud.davidruiz.site](https://cloud.davidruiz.site)
 Repositorio: [Cloud-Angular-NodeJS]([https://cloud.davidruiz.site](https://github.com/Sennt03/Cloud-Angular-NodeJS)
 Varios proyectos personales aplicando buenas prácticas de desarrollo web, incluyendo apps de mensajería en tiempo real y tienda online.
 
-🌱 Motivación y aprendizaje:
+- 🌱 Motivación y aprendizaje:
 Me apasiona aprender constantemente y estar siempre explorando nuevas tecnologías, librerías y herramientas.
 Sigo fielmente la filosofía: "Nunca pares de aprender", aplicándola en cada proyecto y desafío que enfrento.
 Disfruto combinando la práctica con la teoría para crecer profesionalmente y mantenerme actualizado en el mundo del desarrollo web.
 
-📈 Experiencia laboral:
-Más de 4 años trabajando en entornos profesionales, liderando proyectos de frontend y fullstack, migraciones de aplicaciones, y desarrollo de soluciones eficientes y escalables.
+- 📈 Experiencia laboral:
+Llevo más de 4 años trabajando en entornos profesionales, liderando proyectos de frontend y fullstack, migraciones de aplicaciones, y desarrollo de soluciones eficientes y escalables.
