@@ -8,8 +8,8 @@
 - 🚀 **Conocimientos demostrables (proyectos personales) aparte de la experiencia laboral:**
   - **Portafolio:** [www.davidruiz.site](https://davidruiz.site)
   - **Proyecto destacable:** Cloud - Sistema de almacenamiento en la nube tipo Google Drive, desarrollado con Angular 20 y Node.js.  
-    - Link: [cloud.davidruiz.site](https://cloud.davidruiz.site)  
-    - Repositorio: [Cloud-Angular-NodeJS](https://github.com/Sennt03/Cloud-Angular-NodeJS)
+    - Link: <a href="https://cloud.davidruiz.site" target="_blank">cloud.davidruiz.site</a>
+    - Repositorio: <a href="https://github.com/Sennt03/Cloud-Angular-NodeJS" target="_blank">Cloud-Angular-NodeJS</a>
   - Varios proyectos personales aplicando buenas prácticas de desarrollo web, incluyendo apps de mensajería en tiempo real y tienda online.
 
 - 🌱 **Motivación y aprendizaje:**
