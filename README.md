@@ -1,11 +1,21 @@
-- 👋 Hola, soy David Ruiz, empecé en el mundo del desarrollo web desde los 14 años 
-mediante cursos online en los cuales aprendi mucho y para aprender de verdad me dediqué hacer proyectos.
-- Siempre he sido autodidacta ya que me encanta aprender, y aparte de los cursos me pasaba horas leyendo
-documentación para aprender una librería o módulo de npm y con ello he desarrollado los proyectos que los puedes encontrar aqui en mi github
-- 👀 Me encanta mucho la tecnología, me encanta mucho aprender y algo que me encantaría hacer es enseñar y compartir mi conocimiento
-- 🌱 Algo que quiero hacer al largo de toda mi vida es aprender la mayoría cantidad de lenguajes de programacion, bueno no solo aprenderlos sino dominarlos, para lo cual mi objetivo real es nunca para de aprender
+- 👋 Hola, soy David Ruiz, desarrollador web con más de 4 años de experiencia en el desarrollo de aplicaciones modernas.
 
-<!---
-Sennt03/Sennt03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Experiencia y conocimientos:
+Más de 4 años trabajando con Angular, incluyendo las versiones actuales hasta Angular 20, aplicando las mejores prácticas de arquitectura, zoneless mode, Signals y SSR.
+Conocimiento y experiencia laboral en React, Node.js, PHP y Laravel.
+Experiencia en desarrollo frontend y backend, integración de APIs, manejo de estado con NgRx y optimización de aplicaciones web.
+
+- 🚀 Conocimientos demostrables (proyectos personales) aparte de la experiencia laboral:
+- **Portafolio:** [www.davidruiz.site](https://davidruiz.site)
+- **Proyecto destacable:** Cloud - Sistema de almacenamiento en la nube tipo Google Drive, desarrollado con Angular 20 y Node.js.
+Link: [cloud.davidruiz.site](https://cloud.davidruiz.site)
+Repositorio: [Cloud-Angular-NodeJS]([https://cloud.davidruiz.site](https://github.com/Sennt03/Cloud-Angular-NodeJS)
+Varios proyectos personales aplicando buenas prácticas de desarrollo web, incluyendo apps de mensajería en tiempo real y tienda online.
+
+🌱 Motivación y aprendizaje:
+Me apasiona aprender constantemente y estar siempre explorando nuevas tecnologías, librerías y herramientas.
+Sigo fielmente la filosofía: "Nunca pares de aprender", aplicándola en cada proyecto y desafío que enfrento.
+Disfruto combinando la práctica con la teoría para crecer profesionalmente y mantenerme actualizado en el mundo del desarrollo web.
+
+📈 Experiencia laboral:
+Más de 4 años trabajando en entornos profesionales, liderando proyectos de frontend y fullstack, migraciones de aplicaciones, y desarrollo de soluciones eficientes y escalables.
